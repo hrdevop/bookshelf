@@ -19,6 +19,4 @@ export class Books implements BooksAddInterface {
 
     @Column() //temporary
     coverImage: string;
-
-
 }
